@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxop1sv73unnq"
-path.s3tc="res://.godot/imported/tall_ash_1_1.png-adfab3b76f3b9a26b39e8e3a2d9d6030.s3tc.ctex"
+path.s3tc="res://.godot/imported/tall_ash_1_1.png-487fa0c4e004ca27d5238390badfb55a.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://Assets/trees/tall_ash_1_1.png"
-dest_files=["res://.godot/imported/tall_ash_1_1.png-adfab3b76f3b9a26b39e8e3a2d9d6030.s3tc.ctex"]
+source_file="res://Assets/Trees/tall_ash_1_1.png"
+dest_files=["res://.godot/imported/tall_ash_1_1.png-487fa0c4e004ca27d5238390badfb55a.s3tc.ctex"]
 
 [params]
 

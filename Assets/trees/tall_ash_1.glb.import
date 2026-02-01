@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d2aha7bm86y2h"
-path="res://.godot/imported/tall_ash_1.glb-bf8220b069d447da9ec3a6bb56baf323.scn"
+path="res://.godot/imported/tall_ash_1.glb-06c8b5921993704c2640bd4ba5538c07.scn"
 
 [deps]
 
-source_file="res://Assets/trees/tall_ash_1.glb"
-dest_files=["res://.godot/imported/tall_ash_1.glb-bf8220b069d447da9ec3a6bb56baf323.scn"]
+source_file="res://Assets/Trees/tall_ash_1.glb"
+dest_files=["res://.godot/imported/tall_ash_1.glb-06c8b5921993704c2640bd4ba5538c07.scn"]
 
 [params]
 

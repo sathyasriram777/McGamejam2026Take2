@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv3gtxd5fmbfm"
-path.s3tc="res://.godot/imported/large_oak_2_3.png-25011abf5b1249c213949fb71f789a78.s3tc.ctex"
+path.s3tc="res://.godot/imported/large_oak_2_3.png-8e4365ded3932dff68182f3fbb3c0d09.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://Assets/trees/large_oak_2_3.png"
-dest_files=["res://.godot/imported/large_oak_2_3.png-25011abf5b1249c213949fb71f789a78.s3tc.ctex"]
+source_file="res://Assets/Trees/large_oak_2_3.png"
+dest_files=["res://.godot/imported/large_oak_2_3.png-8e4365ded3932dff68182f3fbb3c0d09.s3tc.ctex"]
 
 [params]
 
